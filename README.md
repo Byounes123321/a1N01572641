@@ -1,1 +1,2 @@
-# a1N01572641
+# Logic practice in C# on ASP.net
+practicing logic skills using c# in the ASP framework
